@@ -17,7 +17,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/license-Apache-red.svg" />
   </a>
   <a href="javascript:;">
-    <img src="https://img.shields.io/badge/platform-chrome%20%7C%20edge%20%7C%20firefox-lightgrey" />
+    <img src="https://img.shields.io/badge/platform-chrome%20%7C%20edge%20%7C%20firefox%20%7C%20safari-lightgrey" />
   </a>
 </p>
 
@@ -30,6 +30,22 @@
 ## 📫 Contact
 - Email: [support@letsmain.com](mailto:support@letsmain.com)
 - Github: [http://github.com/letsmain](http://github.com/letsmain/letsmain)
+
+## 🌎 Browser
+<p align="left">
+  <a href="javascript:;">
+    <img src="https://raw.githubusercontent.com/letsmain/letsmain/d9327865960b12e59c4bcc14ad5191237c5634ce/resources/images/chrome.svg" width="48" height="48" />
+  </a>
+  <a href="javascript:;">
+    <img src="https://raw.githubusercontent.com/letsmain/letsmain/d9327865960b12e59c4bcc14ad5191237c5634ce/resources/images/edge.svg" width="48" height="48" />
+  </a>
+  <a href="javascript:;">
+    <img src="https://raw.githubusercontent.com/letsmain/letsmain/d9327865960b12e59c4bcc14ad5191237c5634ce/resources/images/firefox.svg" width="48" height="48" />
+  </a>
+  <a href="javascript:;">
+    <img src="https://raw.githubusercontent.com/letsmain/letsmain/d9327865960b12e59c4bcc14ad5191237c5634ce/resources/images/safari.svg" width="48" height="48" />
+  </a>
+</p>
 
 ## 🌱 License
 letsmain/letsmain is licensed under the
