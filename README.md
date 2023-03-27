@@ -30,6 +30,7 @@
 ## 📫 Contact
 - Email: [support@letsmain.com](mailto:support@letsmain.com)
 - Github: [http://github.com/letsmain](http://github.com/letsmain/letsmain)
+- 爱发电: [http://afdian.net/a/letsmain](http://afdian.net/a/letsmain)
 
 ## 🌎 Browser
 <p align="left">
