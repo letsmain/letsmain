@@ -5,7 +5,7 @@
 </h1>
 <p align="center">
   <a href="javascript:;">
-    <img src="https://img.shields.io/badge/version-v1.0.0-blue" />
+    <img src="https://img.shields.io/badge/version-v3.0.0-blue" />
   </a>
   <a href="https://validator.w3.org/" target="_blank">
     <img src="https://img.shields.io/badge/w3c-validated-brightgreen" />
